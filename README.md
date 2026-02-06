@@ -132,7 +132,7 @@ To build a responsive and user-friendly web application that enables users to:
 
 ## ⏱️ Time Taken
 
-**Approximately:** 18–22 hours
+**Approximately:** 8-10 hours
 (Including planning, UI design, API integration, debugging, optimization, and final polish)
 
 ---
